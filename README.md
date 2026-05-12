@@ -109,7 +109,7 @@ DeviceNetworkEvents
 - **Timestamp:** `2026-05-11T18:58:52.7388868Z`
 - **Event:** The user "employee" downloaded a file named `Tor-browser-windows-x86_64-portable-15.0.13.exe` to the Downloads folder.
 - **Action:** File download detected.
-- **File Path:** `c:\users\ncobcam\desktop\tor browser\browser\torbrowser\tor\tor.exe`
+- **File Path:** `C:\Users\NCOBCam\Downloads\tor-browser-windows-x86_64-portable-15.0.13.exe`
 
 ### 2. Process Execution - TOR Browser Installation
 
@@ -117,7 +117,7 @@ DeviceNetworkEvents
 - **Event:** The user "employee" executed the file `tor-browser-windows-x86_64-portable-15.0.13.exe` in silent mode, initiating a background installation of the TOR Browser.
 - **Action:** Process creation detected.
 - **Command:** `tor-browser-windows-x86_64-portable-15.0.13.exe /S`
-- **File Path:** `c:\users\ncobcam\desktop\tor browser\browser\torbrowser\tor\tor.exe`
+- **File Path:** `C:\Users\NCOBCam\Downloads\tor-browser-windows-x86_64-portable-15.0.13.exe`
 
 ### 3. Process Execution - TOR Browser Launch
 
